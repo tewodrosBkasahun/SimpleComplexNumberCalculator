@@ -10,4 +10,4 @@ A simple complex number calculator.
 ### Installing
 1) Download 
 2) Import it into your IDE
-3) Run "PictureManager.java"
+3) Run "StudentTests.java"
